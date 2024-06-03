@@ -4,6 +4,9 @@
 <img src="https://i.ibb.co/8KhB5vd/Banner-linkedin-Developer-Mesa-de-trabajo-1.png" alt="Banner-linkedin-Developer-Mesa-de-trabajo-1">
 
 ## Sobre mi
+Hace un año decidí cambiar mi rumbo profesional, decidí dar un paso al frente, dejando mi trabajo estable en Unilever Argentina con el fin de prepararme para un reto mayor: La programación.
+Realicé el bootcamp "Soy Henry", donde no solo aprendí la teoría, sino que la apliqué en proyectos personales. 
+Trabajé tecnologías como JavaScript, React, Redux, Next y CSS para el frontend y Express, PostgreSQL, MongoDB y Mongoose para el backend.
 
 ### 🛠 &nbsp;Tech Stack
 
