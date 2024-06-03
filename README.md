@@ -26,7 +26,7 @@ Trabajé tecnologías como JavaScript, React, Redux, Next y CSS para el frontend
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Secure Ingress Home</h3>
 <div align="center">
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
 <p>
@@ -44,7 +44,7 @@ Trabajé tecnologías como JavaScript, React, Redux, Next y CSS para el frontend
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Patitas clínica Veterinaria</h3>
 <div align="center">                                       
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
