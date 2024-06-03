@@ -41,7 +41,7 @@ Trabajé tecnologías como JavaScript, React, Redux, Next y CSS para el frontend
                <br>
 <h3 align="center">Patitas clínica Veterinaria</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.ibb.co/1vkVSGt/pcv.png" width="400" alt="Curso básico android"></a>
+<a href="https://patitas-clinica-veterinaria-ue21.vercel.app/" target="_blank"><img src="https://i.ibb.co/1vkVSGt/pcv.png" width="400" alt="Patitas"></a>
 <br>
 <p>
 </p>
