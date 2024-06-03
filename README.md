@@ -32,7 +32,7 @@ Trabajé tecnologías como JavaScript, React, Redux, Next y CSS para el frontend
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Aplicación web destinada a la administración de comunidades privadas, tanto para el personal administrativo, como para los residentes y el personal de seguridad. En el front-End se utilizó Next.JS y tailwind. Por otro lado, se utilizó Nest.JS y postgreSQL para el Back.End</p>
 </div>
                                                                                       
 </td>
@@ -45,7 +45,7 @@ Trabajé tecnologías como JavaScript, React, Redux, Next y CSS para el frontend
 <br>
 <p>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>Aplicación web destinada al control de turno de una clínica veterinaria. Para el Front-End se utilizó React, Redux y CSS modules. Para el Back-End se utilizó Express.JS, typescript y postgreSQL</p>
 </div>                                                             
 </table>                                                                                 
 </div>
